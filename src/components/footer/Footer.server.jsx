@@ -15,6 +15,9 @@
   ```
 */
 
+import { ChevronDownIcon } from '@heroicons/react/24/solid'
+
+
 const navigation = {
   solutions: [
     { name: 'Marketing', href: '#' },
